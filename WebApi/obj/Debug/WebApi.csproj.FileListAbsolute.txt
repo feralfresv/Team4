@@ -94,3 +94,6 @@ C:\Users\Curso\source\repos\MYDLL\WebApi\obj\Debug\WebApi.csproj.CoreCompileInpu
 C:\Users\Curso\source\repos\MYDLL\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 C:\Users\Curso\source\repos\MYDLL\WebApi\obj\Debug\WebApi.dll
 C:\Users\Curso\source\repos\MYDLL\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Curso\source\repos\MYDLL\WebApi\bin\LogDataAccess.dll
+C:\Users\Curso\source\repos\MYDLL\WebApi\bin\LogDataAccess.pdb
+C:\Users\Curso\source\repos\MYDLL\WebApi\bin\LogDataAccess.dll.config

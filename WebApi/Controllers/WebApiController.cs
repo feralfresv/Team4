@@ -5,20 +5,22 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
+using LogDataAccess;
+
 namespace WebApi.Controllers
 {
     public class WebApiController : ApiController
     {
-        Models.Team4RMEntities BD = new Models.Team4RMEntities();
+        
         [HttpPost]
-        public HttpResponseMessage Post([FromBody]Models.Log TYT)
+        public HttpResponseMessage Post([FromBody] Log log)
         {
-            using (Models.Team4RMEntities BD = new Models.Team4RMEntities())
+            using (Team4RMEntities BD = new Team4RMEntities())
             {
-                BD.Log.Add(TYT);
+                BD.Log.Add(log);
                 BD.SaveChanges();
             }
-            return Request.CreateResponse(HttpStatusCode.Created, TYT);
+            return Request.CreateResponse(HttpStatusCode.Created, log);
         }
     }
 }
