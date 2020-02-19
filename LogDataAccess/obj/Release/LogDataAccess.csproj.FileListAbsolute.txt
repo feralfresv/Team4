@@ -1,0 +1,12 @@
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\LogDataAccess.dll.config
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\LogDataAccess.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\LogDataAccess.pdb
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\EntityFramework.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\EntityFramework.xml
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Release\LogDataAccess.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Release\LogDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Release\LogDataAccess.csproj.CopyComplete
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Release\LogDataAccess.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Release\LogDataAccess.pdb
