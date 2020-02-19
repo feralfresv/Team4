@@ -9,7 +9,7 @@ using LogDataAccess;
 
 namespace WebApi.Controllers
 {
-    public class WebApiController : ApiController
+    public class LogsController : ApiController
     {
         
         [HttpPost]
