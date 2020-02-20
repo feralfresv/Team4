@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\MYDLL\_Log\bin\Debug\_Log.dll
+C:\Users\Curso\source\repos\MYDLL\_Log\bin\Debug\_Log.pdb
+C:\Users\Curso\source\repos\MYDLL\_Log\obj\Debug\_Log.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\MYDLL\_Log\obj\Debug\_Log.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\MYDLL\_Log\obj\Debug\_Log.dll
+C:\Users\Curso\source\repos\MYDLL\_Log\obj\Debug\_Log.pdb
