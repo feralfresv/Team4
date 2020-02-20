@@ -1,0 +1,10 @@
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\AcademyLog.dll
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\AcademyLog.pdb
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Curso\source\repos\Team4\AcademyLog\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Curso\source\repos\Team4\AcademyLog\obj\Debug\AcademyLog.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Team4\AcademyLog\obj\Debug\AcademyLog.csproj.CopyComplete
+C:\Users\Curso\source\repos\Team4\AcademyLog\obj\Debug\AcademyLog.dll
+C:\Users\Curso\source\repos\Team4\AcademyLog\obj\Debug\AcademyLog.pdb

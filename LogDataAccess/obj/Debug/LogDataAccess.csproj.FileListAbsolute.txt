@@ -10,3 +10,15 @@ C:\Users\Curso\source\repos\MYDLL\LogDataAccess\obj\Debug\LogDataAccess.csproj.C
 C:\Users\Curso\source\repos\MYDLL\LogDataAccess\obj\Debug\LogDataAccess.csproj.CopyComplete
 C:\Users\Curso\source\repos\MYDLL\LogDataAccess\obj\Debug\LogDataAccess.dll
 C:\Users\Curso\source\repos\MYDLL\LogDataAccess\obj\Debug\LogDataAccess.pdb
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\LogDataAccess.dll.config
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\LogDataAccess.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\LogDataAccess.pdb
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\Team4\LogDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Debug\LogDataAccess.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Debug\LogDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Debug\LogDataAccess.csproj.CopyComplete
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Debug\LogDataAccess.dll
+C:\Users\Curso\source\repos\Team4\LogDataAccess\obj\Debug\LogDataAccess.pdb
